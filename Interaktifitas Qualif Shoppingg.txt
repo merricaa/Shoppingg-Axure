@@ -1,0 +1,26 @@
+INTERAKTIFITAS
+INTRO PAGE
+-Mouse Over berubah warna jadi merah tua 
+-Mouse Down berubah warna jadi pink
+LOGIN PAGE 
+-Mouse Over di tombol Login berubah warna jadi merah
+-Mouse down di tombol login berubah warna jadi abu-abu, dan ada outer shadow
+-LOG IN text selected berubah warna menjadi merah saat memencet tombol Login
+
+MAIN PAGE 
+-Clothes page
+	->custom tool tip pada search bar & pada icon sort 
+	-> Scroll page
+-Shoes Page
+	->custom tool tip pada search bar & pada icon sort
+	-> Scroll page
+-Skirt Page
+	->custom tool tip pada search bar & pada icon sort
+	-> Scroll page
+-Pants Page 
+	-> custom tool tip pada search bar & pada pada icon sort
+	-> Scroll page
+
+
+
+
